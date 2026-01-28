@@ -9,7 +9,7 @@ Die Antworten werden überprüft, die Punktzahl wird berechnet und am Ende kann 
 Verwendete Technologien und Konzepte
 
 Python,
-Funktionen
-Schleifen
-Listen
+Funktionen,
+Schleifen,
+Listen,
 Bedingungen (if/else)
