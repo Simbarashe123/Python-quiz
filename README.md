@@ -8,7 +8,7 @@ Die Antworten werden überprüft, die Punktzahl wird berechnet und am Ende kann 
 
 Verwendete Technologien und Konzepte
 
-Python
+Python,
 Funktionen
 Schleifen
 Listen
